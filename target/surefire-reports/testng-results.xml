@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-12-04T09:04:05Z" name="DemoRealtime" finished-at="2017-12-04T09:04:45Z" duration-ms="40053">
+    <groups>
+    </groups>
+    <test started-at="2017-12-04T09:04:05Z" name="Nopackage" finished-at="2017-12-04T09:04:45Z" duration-ms="40053">
+      <class name="quang.doan.demo.DemoRealTimePlugin">
+        <test-method signature="Test1()[pri:0, instance:quang.doan.demo.DemoRealTimePlugin@59662a0b]" started-at="2017-12-04T16:04:05Z" name="Test1" finished-at="2017-12-04T16:04:15Z" duration-ms="10010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:quang.doan.demo.DemoRealTimePlugin@59662a0b]" started-at="2017-12-04T16:04:15Z" name="Test2" finished-at="2017-12-04T16:04:25Z" duration-ms="10007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:quang.doan.demo.DemoRealTimePlugin@59662a0b]" started-at="2017-12-04T16:04:25Z" name="Test3" finished-at="2017-12-04T16:04:35Z" duration-ms="10007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:quang.doan.demo.DemoRealTimePlugin@59662a0b]" started-at="2017-12-04T16:04:35Z" name="Test4" finished-at="2017-12-04T16:04:45Z" duration-ms="10006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- quang.doan.demo.DemoRealTimePlugin -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- DemoRealtime -->
+</testng-results>
