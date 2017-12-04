@@ -1,8 +1,8 @@
 package quang.doan.demo;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 
-public class DemoRealTimePlugin {
+public class DemoRealTimePluginTest {
 
 	@Test
 	public void Test1() {
